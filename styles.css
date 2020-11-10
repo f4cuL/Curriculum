@@ -1,5 +1,11 @@
 #foto
 {
     border-radius: 200px;
-    border: 2px solid #73AD21;
+    border: 1px solid #73AD21;
+}
+
+
+#tarjeta1
+{
+    background-color: rgba(68, 70, 70, 0.062);
 }
