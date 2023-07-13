@@ -19,3 +19,14 @@ a { color: inherit; }
     z-index: 1;
     width: 100%;
 }
+
+.hr__ancho {
+    height: 2px;
+        border: none;
+        background-color: #8b8b8b;
+}
+
+.img__bw {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
